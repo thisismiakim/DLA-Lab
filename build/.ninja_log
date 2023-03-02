@@ -1,0 +1,15 @@
+# ninja log v5
+17	617	1677766881	CMakeFiles/DLA.dir/src/main.cpp.o	774448c4feaeb1c4
+17	2187	1677766883	CMakeFiles/DLA.dir/src/image.cpp.o	a164fdd48d52589b
+2188	35122	1677766916	DLA	97336a497d14b1b9
+27059	49745	1677770043	CMakeFiles/DLA.dir/src/Walker.cpp.o	49962ccecd3f9944
+235	743	1677770897	CMakeFiles/DLA.dir/src/main.cpp.o	774448c4feaeb1c4
+11	595	1677770919	CMakeFiles/DLA.dir/src/main.cpp.o	774448c4feaeb1c4
+11	639	1677770919	CMakeFiles/DLA.dir/src/Walker.cpp.o	49962ccecd3f9944
+639	45548	1677770963	DLA	5a6e39e2ddfbc806
+286	793	1677771388	CMakeFiles/DLA.dir/src/main.cpp.o	774448c4feaeb1c4
+286	829	1677771388	CMakeFiles/DLA.dir/src/Walker.cpp.o	49962ccecd3f9944
+829	23737	1677771411	DLA	5a6e39e2ddfbc806
+313	991	1677771971	CMakeFiles/DLA.dir/src/main.cpp.o	774448c4feaeb1c4
+313	1017	1677771971	CMakeFiles/DLA.dir/src/Walker.cpp.o	49962ccecd3f9944
+1017	27811	1677771997	DLA	5a6e39e2ddfbc806
