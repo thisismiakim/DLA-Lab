@@ -323,6 +323,9 @@ Z_VCPKG_CL:FILEPATH=Z_VCPKG_CL-NOTFOUND
 // triplet
 _VCPKG_INSTALLED_DIR:PATH=/public/devel/2022/vcpkg/installed
 
+//The directory containing a CMake configuration file for fmt.
+fmt_DIR:PATH=/public/devel/2022/vcpkg/installed/x64-linux/share/fmt
+
 //The directory containing a CMake configuration file for libheif.
 libheif_DIR:PATH=/public/devel/2022/vcpkg/installed/x64-linux/share/libheif
 

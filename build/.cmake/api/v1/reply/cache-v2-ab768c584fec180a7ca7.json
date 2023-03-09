@@ -1770,6 +1770,18 @@
 			"value" : "/public/devel/2022/vcpkg/installed"
 		},
 		{
+			"name" : "fmt_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for fmt."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/public/devel/2022/vcpkg/installed/x64-linux/share/fmt"
+		},
+		{
 			"name" : "libheif_DIR",
 			"properties" : 
 			[

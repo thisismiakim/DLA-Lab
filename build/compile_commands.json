@@ -1,17 +1,17 @@
 [
 {
   "directory": "/home/s5314663/CGA/Labs/DLA/build",
-  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DOIIO_STATIC_DEFINE=1 -I../include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/OpenEXR -g -std=gnu++17 -o CMakeFiles/DLA.dir/src/main.cpp.o -c /home/s5314663/CGA/Labs/DLA/src/main.cpp",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DFMT_HEADER_ONLY=1 -DOIIO_STATIC_DEFINE=1 -I../include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/OpenEXR -g -std=gnu++17 -o CMakeFiles/DLA.dir/src/main.cpp.o -c /home/s5314663/CGA/Labs/DLA/src/main.cpp",
   "file": "/home/s5314663/CGA/Labs/DLA/src/main.cpp"
 },
 {
   "directory": "/home/s5314663/CGA/Labs/DLA/build",
-  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DOIIO_STATIC_DEFINE=1 -I../include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/OpenEXR -g -std=gnu++17 -o CMakeFiles/DLA.dir/src/image.cpp.o -c /home/s5314663/CGA/Labs/DLA/src/image.cpp",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DFMT_HEADER_ONLY=1 -DOIIO_STATIC_DEFINE=1 -I../include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/OpenEXR -g -std=gnu++17 -o CMakeFiles/DLA.dir/src/image.cpp.o -c /home/s5314663/CGA/Labs/DLA/src/image.cpp",
   "file": "/home/s5314663/CGA/Labs/DLA/src/image.cpp"
 },
 {
   "directory": "/home/s5314663/CGA/Labs/DLA/build",
-  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DOIIO_STATIC_DEFINE=1 -I../include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/OpenEXR -g -std=gnu++17 -o CMakeFiles/DLA.dir/src/Walker.cpp.o -c /home/s5314663/CGA/Labs/DLA/src/Walker.cpp",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DFMT_HEADER_ONLY=1 -DOIIO_STATIC_DEFINE=1 -I../include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/OpenEXR -g -std=gnu++17 -o CMakeFiles/DLA.dir/src/Walker.cpp.o -c /home/s5314663/CGA/Labs/DLA/src/Walker.cpp",
   "file": "/home/s5314663/CGA/Labs/DLA/src/Walker.cpp"
 }
 ]

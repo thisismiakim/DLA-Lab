@@ -11,6 +11,7 @@ project(DLA_build)
 # Here we set the C++ standard to use
 set(CMAKE_CXX_STANDARD 17)
 find_package(OpenImageIO CONFIG REQUIRED)
+find_package(fmt CONFIG REQUIRED)
 include_directories(include)
 
 # Now we add our target executable and the file it is built from.
@@ -24,3 +25,4 @@ target_sources(DLA PRIVATE src/main.cpp
                            include/rgba.h
                            include/Walker.h)
 target_link_libraries(DLA PRIVATE OpenImageIO::OpenImageIO)
+target_link_libraries(DLA PRIVATE fmt::fmt-header-only)
